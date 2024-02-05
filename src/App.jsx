@@ -1,7 +1,7 @@
 import React from "react";
 
 const App = () => {
-  return <div>hello cashmy payment </div>;
+  return <div>home</div>;
 };
 
 export default App;
